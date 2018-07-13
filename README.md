@@ -1,4 +1,4 @@
-# POC
+# POC - load external site
 
 How to load external react web app.
 
