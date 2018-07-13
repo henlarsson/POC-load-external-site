@@ -7,9 +7,9 @@ thePage.html inside web folder will simulate the place where you want to load th
 
 ## How to...
 
-yarn
-yarn build
-cd /static_webserver
-node app.js
-cd /web
-open thePage.html in the browser
+yarn  
+yarn build  
+cd /static_webserver  
+node app.js  
+cd /web  
+open thePage.html in the browser  
